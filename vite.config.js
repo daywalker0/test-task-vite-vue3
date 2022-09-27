@@ -4,6 +4,5 @@ import { viewDepthKey } from 'vue-router'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-	base: '/test-task-vite-vue3/',
   plugins: [vue()]
 })
